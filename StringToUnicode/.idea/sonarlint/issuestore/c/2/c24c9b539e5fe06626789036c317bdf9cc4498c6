@@ -1,0 +1,6 @@
+
+T
+java:S6126	"2Replace this String concatenation with Text block.(·¦£üÿÿÿÿ8˜€Ô½´1
+V
+java:S1874"9Remove this use of "StringEscapeUtils"; it is deprecated.(ÀÎù8˜€Ô½´1
+L	java:S106"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8™€Ô½´1
